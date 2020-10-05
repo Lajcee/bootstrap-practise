@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+.container{
+  width: 100%;
+}
+
+.btn{
+  width: 60%;
+  margin: 20px auto;
+}
+
+
+
+(landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+(tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+(desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+(large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
